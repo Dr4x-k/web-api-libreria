@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libreria_JABE", "libreria_JABE\libreria_JABE.csproj", "{463CE227-C1BF-4B56-9349-3D07BCAEACD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463CE227-C1BF-4B56-9349-3D07BCAEACD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463CE227-C1BF-4B56-9349-3D07BCAEACD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463CE227-C1BF-4B56-9349-3D07BCAEACD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463CE227-C1BF-4B56-9349-3D07BCAEACD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B9BC24-ADAE-474F-AC30-94D9D0110A76}
+	EndGlobalSection
+EndGlobal
